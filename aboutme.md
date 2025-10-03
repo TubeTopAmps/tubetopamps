@@ -1,16 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: Why small handmade mono vacuum tube amplifiers?
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+The late Dr.Gizmo's sincere desire, hope, and longing was for the joys of tube-based audio to be extend beyond the small clusters of old, well-off men with more money than common sense. I believe that too. I believe that one should be able to buy a great sounding audio system for hundreds, not thousand of dollars.
